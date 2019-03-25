@@ -7,8 +7,7 @@
     "start": "node static_server.js"
   },
   "dependencies": {
-    "http-proxy": "^1.11.2",
-    "@types/openui5": "^1.40.1"
+    "http-proxy": "^1.11.2"
   },
   "private": true,
   "author": "Nasser Abbassi",

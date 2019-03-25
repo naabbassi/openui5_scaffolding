@@ -4,7 +4,6 @@ sap.ui.define([
 		"use strict";
 		
 		return UIComponent.extend("myapp.Component",{
-		
 		metadata:{
 			manifest: "json"
 		},
