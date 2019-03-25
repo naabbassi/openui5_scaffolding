@@ -1,0 +1,8 @@
+<mvc:View  height="100%" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+	<Page title="Home" class="sapUiContentPadding">
+
+		<content>
+            
+		</content>
+	</Page>
+</mvc:View>

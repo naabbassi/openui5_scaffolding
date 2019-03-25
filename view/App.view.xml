@@ -1,11 +1,7 @@
-<xml:View 
-controllerName="myapp.controller.App"
-xmlns="sap.m"
-xmlns:mvc="sap.ui.core.mvc">
-		<Shell
-			title="Product managment">
-		<App id="app"
-			busy="{viewModel>/busy}"
-			/>
+<xml:View controllerName="myapp.controller.App" 
+	xmlns="sap.m" 
+	xmlns:mvc="sap.ui.core.mvc">
+	<Shell title="">
+		<App id="app" busy="{viewModel>/busy}" />
 	</Shell>
-	</xml:View>
+</xml:View>
