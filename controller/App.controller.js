@@ -10,6 +10,7 @@ sap.ui.define([
 				});
 				this.setModel(oViewModel,"viewModel");
 				oViewModel.setProperty("/busy", false);
+				
 			}
 		});
 	});
